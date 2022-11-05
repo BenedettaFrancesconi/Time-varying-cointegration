@@ -5,4 +5,4 @@ You will find:
 - the python code, where I preprocessed data, performed EDA and applied stationarty tests and standard cointegration tests
 - the R code, where I applied the time-varying technique.
 
-Enojoy!
+Enjoy!
